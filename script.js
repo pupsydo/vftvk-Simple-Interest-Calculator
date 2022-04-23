@@ -8,7 +8,7 @@ function compute()
     }
 function getSliderValue() 
 {
-    document.getElementById("rate_val").innerHTML = document.getElementById("interest").value;
+    document.getElementById("rate_val").innerHTML = document.getElementById("rate").value;
     }
  function compute()
 {   //To get the values and to calculate
